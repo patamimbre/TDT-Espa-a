@@ -14,6 +14,10 @@
 
 ### Uso
 
+Para lanzar el script únicamente debe ser invocado con ruby
+
+`ruby app.rb`
+
 El script cuenta con un reducido número de opciones
 
 `-c <num_canal>    indica el número del canal a visualizar `
@@ -24,3 +28,10 @@ El script cuenta con un reducido número de opciones
 
 
 
+### Capturas
+
+![noargs](/media/Datos/tv_spain/img/noargs.png)
+
+![ch](/media/Datos/tv_spain/img/ch.png)
+
+![reprod](/media/Datos/tv_spain/img/reprod.png)
