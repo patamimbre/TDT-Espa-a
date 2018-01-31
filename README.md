@@ -30,8 +30,8 @@ El script cuenta con un reducido número de opciones
 
 ### Capturas
 
-![noargs](/media/Datos/tv_spain/img/noargs.png)
+![noargs](img/noargs.png)
 
-![ch](/media/Datos/tv_spain/img/ch.png)
+![ch](img/ch.png)
 
-![reprod](/media/Datos/tv_spain/img/reprod.png)
+![reprod](img/reprod.png)
